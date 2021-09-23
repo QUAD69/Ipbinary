@@ -1,0 +1,22 @@
+{
+    "name": "quad69/ipbinary",
+    "description": "library for storing IP addresses in binary form",
+    "type": "library",
+    "license": "GPL3-only",
+    "authors": [
+        {
+            "name": "Quad69",
+            "email": "quad69@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Quad69\\": "src/"
+        }
+    },
+    "version": "1.0.0",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    }
+}
