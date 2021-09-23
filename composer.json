@@ -2,7 +2,7 @@
     "name": "quad69/ipbinary",
     "description": "library for storing IP addresses in binary form",
     "type": "library",
-    "license": "GPL3-only",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Quad69",
