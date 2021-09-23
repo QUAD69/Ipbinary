@@ -15,7 +15,7 @@ namespace Quad69;
  *
  * @author QUAD69 <https://vk.com/quad69>
  */
-class IP
+class Ipbinary
 {
     /**
      * Константа нулевого адреса. Возвращается при ошибке конвертирования.
